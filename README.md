@@ -1,8 +1,4 @@
-Here is a `README.md` file for your repository: **[Ansible-Driven Configuration Management Inside Kubernetes Pods](https://github.com/abhi-gadge1773/Ansible-Driven-Configuration-Management-Inside-Kubernetes-Pods.git)** — written in the same detailed, professional, and structured format:
 
----
-
-```markdown
 # 🎯 Ansible-Driven Configuration Management Inside Kubernetes Pods
 
 **Tags**: Kubernetes · Ansible · PHP · Docker · AWS
