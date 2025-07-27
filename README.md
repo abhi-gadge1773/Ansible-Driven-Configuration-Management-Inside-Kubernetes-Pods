@@ -90,18 +90,27 @@ This executes your configuration management tasks directly inside a live K8s con
 
 
 🛠 Use Cases
+
 Dynamic configuration inside running containers
+
 On-demand configuration validation
+
 Ephemeral container setup using IaC
+
 Test Ansible roles/playbooks inside K8s pods
 
 
 
 📈 Future Improvements
+
 ✅ Integrate with ConfigMaps & Secrets
+
 🔐 Use Ansible Vault for sensitive data
+
 📦 Package image via CI pipeline (Jenkins/GitHub Actions)
+
 📊 Monitoring with Prometheus/Grafana
+
 ☁️ Integrate with AWS/GCP Cloud Config
 
 
